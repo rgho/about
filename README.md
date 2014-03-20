@@ -1,4 +1,4 @@
-# Portfoilio
+# ABOUT
 
 
 ## Details
@@ -13,7 +13,7 @@
 * Prof. Certificates: Stanford, Sustainability Technologies '11 & '13
 * Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013]
 
-## My Projects 
+## Projects & Portfolio
 
 ### Applications:
 * __Fiatly__: Blazing fast currency conversion across Fiat, Crypto, and Metals. (Still in development) http://www.fiatly.com
