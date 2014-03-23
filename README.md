@@ -8,10 +8,11 @@
 
 ## Background
 * Previous: Software engineer #4 for top optometric testing software system company. Wrote backend for credit card processing, client-server data interchage, custom analytics for propeitary database.
-* Undergraduate: UC San Diego '10
 * Hacker School: Fall '13 Batch (http://hackerschool.com)
-* Prof. Certificates: Stanford, Sustainability Technologies '11 & '13
 * Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013]
+* Prof. Certificates: Stanford, Sustainability Technologies '11 & '13
+* Undergraduate: UC San Diego '10
+
 
 ## Projects & Portfolio
 
