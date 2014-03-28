@@ -21,7 +21,7 @@
 
 * __TargetTimes__: Desktop app for Mac and PC. Allows users to quickly visualize timezone changes and figure out best meeting times when teams are scattered across time zones. http://Target-Times.com
 
-* __Number of Pages__: An app for research paper writing students, allowing them to figure out how many pages of formatted content they have. http://www.numberofpages.com
+* __Number of Pages__: An app for students writing research papers, allowing them to figure out how many pages of formatted content they have. http://www.numberofpages.com
 
 * __ConvertMo__: A tool for Venmo users allowing them to enter trasactions in any currency and be seemlessly redirected to their Venmo app to complete payment. http://www.convertmo.com  
 
