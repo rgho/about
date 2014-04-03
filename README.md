@@ -7,7 +7,7 @@
 * Github: http://www.github.com/rgho
 
 ## Background
-* Previous: Software engineer #4 for top optometric testing software system company. Wrote backend for credit card processing, client-server data interchage, custom analytics for propeitary database.
+* Previous: Software engineer #4 for top optometric software company. Wrote backend for credit card processing, client-server data interchage, custom analytics for propeitary database.
 * Hacker School: Fall '13 Batch (http://hackerschool.com)
 * Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013]
 * Prof. Certificates: Stanford, Sustainability Technologies '11 & '13
