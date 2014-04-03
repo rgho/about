@@ -66,11 +66,11 @@ https://github.com/rgho/revFlights
 * Comfortable with full stack.
 * Python, Flask
 * PHP
+* RunRev Livecode (A variant of Apple's HyperCard from the 90s)
 * JavaScript, jQuery
 * AngularJS
 * HTML5/CSS3
 * Bootstrap CSS Framework
-* RunRev Livecode (An Apple Inc. HyperCard variant)
 * Databases: SQL / Mongo
 
 ###Other Skills
