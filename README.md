@@ -25,7 +25,7 @@
 
 * __ConvertMo__: A tool for Venmo users allowing them to enter trasactions in any currency and be seemlessly redirected to their Venmo app to complete payment. http://www.convertmo.com  
 
-* __CAL 9000__: An exploration in browser (client) side image processing. Given an image, CAL does its best to respond with a humanlike summary of the colors in the image. "Wow! I see a whole lot of forrest green, dafodil yellow, and rasberry jam red". Demo: http://www.rghosh.com/cal9000 | https://github.com/rgho/cal9000
+* __CAL 9000__: An exploration in browser (client) side image processing. Given an image, CAL does its best to respond with a humanlike summary of the colors in the image. "Wow! I see a whole lot of forrest green, dafodil yellow, and rasberry jam red". Demo: (Use Chrome) http://www.rghosh.com/cal9000 | https://github.com/rgho/cal9000
 
 * __BIP 21 QR Codes__: Generate Bitcoin improvement protocol compliant URI's and QR codes for receiving payments, quickly, within the browser. (Demo coming soon)
  
@@ -43,7 +43,7 @@ https://github.com/rgho/revFlights
  * Python: https://github.com/rgho/bitcoinTicker.py
 
 
-* __ELO Ratings__: Implementation of the ELO relative game rating system
+* __ELO Ratings__: Implementation of the ELO relative scoring system (used in games, multivariate testing, etc.)
  * Python: https://github.com/rgho/elopy
  * Javascript: https://github.com/rgho/elojs
  * PHP: https://github.com/rgho/elophp
