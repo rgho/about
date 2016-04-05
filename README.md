@@ -7,6 +7,7 @@
 * Github: http://www.github.com/rgho
 
 ## Background
+* Current: Trading Platform Specialist at Two Sigma Investments.
 * Previous: Software engineer #4 for top optometric software company. Wrote backend for credit card processing, client-server data interchage, custom analytics for propeitary database.
 * Hacker School: Fall '13 Batch (http://hackerschool.com)
 * Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013], 
@@ -19,18 +20,18 @@
 ### Applications:
 * __Fiatly__: Blazing fast currency conversion across Fiat, Crypto, and Metals. (Still in development) http://www.fiatly.com
 
-* __TargetTimes__: Desktop app for Mac and PC. Allows users to quickly visualize timezone changes and figure out best meeting times when teams are scattered across time zones. http://Target-Times.com
+* __TargetTimes__: Desktop app for Mac and PC. Allows users to quickly visualize timezone changes and figure out best meeting times when teams are scattered across time zones. http://www.rghosh.com/targettimes
 
-* __Number of Pages__: An app for students writing research papers, allowing them to figure out how many pages of formatted content they have. http://www.numberofpages.com
+* __Number of Pages__: An app for students writing research papers, allowing them to figure out how many pages of formatted content they have. http://www.rghosh.com/numberofpages
 
-* __ConvertMo__: A tool for Venmo users allowing them to enter trasactions in any currency and be seemlessly redirected to their Venmo app to complete payment. http://www.convertmo.com  
+* __ConvertMo__: A tool for Venmo users allowing them to enter trasactions in any currency and be seemlessly redirected to their Venmo app to complete payment. http://www.rghosh.com/convertmo  
 
 * __CAL 9000__: An exploration in browser (client) side image processing. Given an image, CAL does its best to respond with a humanlike summary of the colors in the image. "Wow! I see a whole lot of forrest green, dafodil yellow, and rasberry jam red". Demo: (Use Chrome) http://www.rghosh.com/cal9000 | https://github.com/rgho/cal9000
 
 * __BIP 21 QR Codes__: Generate Bitcoin improvement protocol compliant URI's and QR codes for receiving payments, quickly, within the browser. (Demo coming soon)
  
 ### Hardware
-* Infoticker: An arduino project to implement a LED Ticker. Reloads content dynamically from server. Server aggregates relevant data (weather, train schedules, etc.) from multiple sources. http://www.instructables.com/id/Web-Controlled-LED-Info-Ticker/
+* __Infoticker__: An arduino project to implement a LED Ticker. Reloads content dynamically from server. Server aggregates relevant data (weather, train schedules, etc.) from multiple sources. http://www.instructables.com/id/Web-Controlled-LED-Info-Ticker/
 
 ### (Mini) Libraries:
 
