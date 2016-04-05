@@ -9,7 +9,7 @@
 ## Background
 * Previous: Software engineer #4 for top optometric software company. Wrote backend for credit card processing, client-server data interchage, custom analytics for propeitary database.
 * Hacker School: Fall '13 Batch (http://hackerschool.com)
-* Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013]
+* Self directed: Coursera Machine Learning Course (Andrew Ng) [Fall 2013], 
 * Prof. Certificates: Stanford, Sustainability Technologies '11 & '13
 * Undergraduate: UC San Diego '10
 
@@ -29,6 +29,8 @@
 
 * __BIP 21 QR Codes__: Generate Bitcoin improvement protocol compliant URI's and QR codes for receiving payments, quickly, within the browser. (Demo coming soon)
  
+### Hardware
+* Infoticker: An arduino project to implement a LED Ticker. Reloads content dynamically from server. Server aggregates relevant data (weather, train schedules, etc.) from multiple sources. http://www.instructables.com/id/Web-Controlled-LED-Info-Ticker/
 
 ### (Mini) Libraries:
 
